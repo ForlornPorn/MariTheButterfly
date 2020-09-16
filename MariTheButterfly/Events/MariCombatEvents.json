@@ -343,8 +343,6 @@
                                        "ChangeImageLayer", "Face", "",
                                        "ChangeImageLayer", "Body", "Base",
                                        "ChangeImageLayer", "Arm", "Base",
-                                       "ChangeImageLayer", "Legs", "Activate",
-                                       "ChangeImageLayer", "Arm", "Base",
                                        "ChangeImageLayer", "Legs", "Base",
                                        "Pouting disapprovingly at your refusal, Mari gets ready for her next attack, her eyes sparkling with challenge."
                                   ]
@@ -356,8 +354,6 @@
                                        "ChangeImageLayer", "Expression", "Pout",
                                        "ChangeImageLayer", "Face", "",
                                        "ChangeImageLayer", "Body", "Base",
-                                       "ChangeImageLayer", "Arm", "Base",
-                                       "ChangeImageLayer", "Legs", "Base",
                                        "ChangeImageLayer", "Arm", "Base",
                                        "ChangeImageLayer", "Legs", "Base",
                                        "Pouting disapprovingly at your refusal, Mari gets ready for her next attack, her eyes sparkling with challenge."
