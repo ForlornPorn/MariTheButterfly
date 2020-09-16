@@ -118,7 +118,7 @@
                     },
                         {
                           "NameOfScene": "EndOfRoundCounterCheck",
-                          "theScene": [ "CallSceneThenReturn", "MariFlightCheck",
+                          "theScene": [
                                         "IfMonsterHasStatusEffect", "Sleep", "Remove Counter Checks",
                                         "IfMonsterHasStatusEffect", "Stun", "Remove Counter Checks",
                                         "IfMonsterHasStatusEffect", "Restrain", "Remove Counter Checks",
