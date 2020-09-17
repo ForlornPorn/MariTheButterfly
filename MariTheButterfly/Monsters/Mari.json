@@ -539,18 +539,18 @@
                         {
                             "lineTrigger": "HitWith",
                             "move": "Spank",
-                            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/||n|'Ow ow ow ow! Hold on, that really hurts!'",
-                                          "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/||n|'Ouch... I'm not really into this kind of thing...'",
-                                        "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/||n|'Wha-what do you think you're doing?! Treat me more gently!'",
-                                        "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/||n|She visibly winces from the impact."]
+                            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/|None|n|'Ow ow ow ow! Hold on, that really hurts!'",
+                                          "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/|None|n|'Ouch... I'm not really into this kind of thing...'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/|None|n|'Wha-what do you think you're doing?! Treat me more gently!'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/|None|n|She visibly winces from the impact."]
                         },
                         {
                             "lineTrigger": "HitWith",
                             "move": "Whip",
-                            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/||n|'Ow ow ow ow! Hold on, that really hurts!'",
-                                          "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/||n|'Ouch... I'm not really into this kind of thing...'",
-                                        "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/||n|'Wha-what do you think you're doing?! Treat me more gently!'",
-                                        "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/||n|She visibly winces from the impact."]
+                            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/|None|n|'Ow ow ow ow! Hold on, that really hurts!'",
+                                          "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/|None|n|'Ouch... I'm not really into this kind of thing...'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/|None|n|'Wha-what do you think you're doing?! Treat me more gently!'",
+                                        "|f|ChangeImageLayer|/|Expression|/|Panic|n||f|ChangeImageLayer|/|Face|/|None|n|She visibly winces from the impact."]
                         },
                         {
                           "lineTrigger": "HitWith",
