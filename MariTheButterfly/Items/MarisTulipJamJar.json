@@ -13,7 +13,7 @@
                       ],
     "descrip": "Delicious rejuvenation tulip jam footmade by Mari and sealed in a specially enchanted jar. Restores 1 Spirit, but the essence of Mari's feet still lingers, giving you arousal based on your Foot Fetish.",
     "perks": [ ""],
-    "skills": [ ],
+    "skills": [],
 
     "hp": "0",
     "ep": "0",
@@ -54,7 +54,7 @@
     },
 
 
-    "useOutcome": "|f|JumpToEventThenScene|/|MariEncounter|/|UseJamJar|n|",
+    "useOutcome": "|f|JumpToEventThenScene|/|Flowery Clearing|/|UseJamJar",
     "useMiss": "",
 
     "onEquip": "",
