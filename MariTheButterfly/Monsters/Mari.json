@@ -8,7 +8,7 @@
     "tags": "none",
     "generic": "False",
     "requires": [ ""],
-    "skillList": ["Butterfly's Seduction", "Butterfly Trample", "Butterfly Massage", "Butterfly Cling", "Feet Pussy Squeeze", "Hovering Footjob", "Pollinating Kneejob", "Pollinating Breath", "Trapped Foot Pump", "Alternating Foot Pump", "Butterfly Smother", "Foot Flower Trap", "Mischievous Foot Stroke", "Mischievous Foot Stroke", "Mischievous Foot Stroke", "Mischievous Thigh Invitation", "Mischievous Thigh Invitation", "Mischievous Thigh Invitation", "Pollinating Makeout", "Pollinating Kiss", "Pollinating Kiss", "Pollinating Kiss", "Spring's Charm", "Spring's Charm", "Spring's Charm", "Tasting Sex", "Trickster's Flight" ],
+    "skillList": ["Butterfly's Seduction", "Butterfly Trample", "Butterfly Massage", "Butterfly Cling", "Feet Pussy Squeeze", "Hovering Footjob", "Pollinating Kneejob", "Pollinating Breath", "Trapped Foot Pump", "Alternating Foot Pump", "Butterfly Smother", "Foot Flower Trap", "Mischievous Foot Stroke",  "Mischievous Thigh Invitation",  "Pollinating Makeout", "Pollinating Kiss", "Spring's Charm", "Spring's Charm", "Tasting Sex", "Trickster's Flight" ],
     "perks": [ "Pacing", "Alluring", "Loving", "Pinpoint Pleasure", "Swift", "Escape Artist"],
     "stats": { "lvl": "30",
               "Exp": "450",
@@ -645,6 +645,13 @@
                             "theText": [ "|f|ChangeImageLayer|/|Expression|/|FangSmile|n||f|ChangeImageLayer|/|Face|/|Blush|n|'A little taste test~♪'",
                                          "|f|ChangeImageLayer|/|Expression|/|Seductive|n||f|ChangeImageLayer|/|Face|/|Blush|n|'I wonder how you taste...♪'",
                                          "|f|ChangeImageLayer|/|Expression|/|Kissy|n||f|ChangeImageLayer|/|Face|/|Blush|n|Teasingly giving you a couple quick pecks on the cheek as she flies around,"]
+                        },
+                        {
+                            "lineTrigger": "UsesMove",
+                            "move": "Mischievous Thigh Invitation",
+                            "theText": [ "|f|ChangeImageLayer|/|Expression|/|Smug|n||f|ChangeImageLayer|/|Face|/|Blush|n|'Fufu~♪, soft isn't it~♥?'",
+                                         "|f|ChangeImageLayer|/|Expression|/|Confident|n||f|ChangeImageLayer|/|Face|/|Blush|n|'Feel them as much as you'd like, adventurer~♥.'",
+                                         "|f|ChangeImageLayer|/|Expression|/|FangSmile|n||f|ChangeImageLayer|/|Face|/|Blush|n|'No need to be shy, adventurer~♥.'"]
                         },
                         {
                             "lineTrigger": "UsesMove",
